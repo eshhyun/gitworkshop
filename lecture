@@ -124,6 +124,7 @@ git config alias.history 'log --pretty=oneline'
 다음 영상부터는 git log --pretty=oneline 대신 git history를 사용하도록 하겠습니다. history는 원래 git에 있는 커맨드가 아니라 단지 제가 만든 alias라는 걸 기억하세요. 
 그리고 앞으로 여러분도 여러 커맨드와 옵션들을 배울 때 길이가 너무 길어서 짧게 나타내고 싶은 것이 생기면 방금 배운 aliasing을 활용해보세요.
 
+<<<<<<< HEAD
 1. git reset을 쓸 때 --hard는 뭐였을까?
 이전 영상에서 git reset을 했더니 
 
@@ -188,3 +189,5 @@ HEAD가 현재 가리키는 커밋을 기준으로 한 상대적인 표현법인
 
 HEAD^
 HEAD~2
+=======
+>>>>>>> 50670f65731a573f0fb85db00d0ccfd7fbba28d7
